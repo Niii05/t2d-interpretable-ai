@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+lime
+optuna
+textblob
+vaderSentiment
+streamlit
+joblib
+matplotlib
